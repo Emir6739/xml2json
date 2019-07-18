@@ -1,0 +1,51 @@
+#wrapper 
+{
+    margin: auto;
+    width: 100%;
+    height: 900px;
+}
+
+#first 
+{
+    margin-left: 13%;
+    width: 35%;
+    margin-right: 2%;
+    height: 100%;
+    float:left; 
+}
+
+#second 
+{
+    margin-left: 2%;
+    width: 35%;
+    margin-right: 13%;
+    height: 100%;
+    float:left;
+}
+
+#xml
+{
+    width:100%;
+    height:80%;
+    resize: none;
+}
+
+#json
+{
+    width:100%;
+    height:80%;
+    resize: none;
+}
+
+#title
+{
+    margin: 0 auto;
+    width:200px;
+    text-align:center;
+}
+
+#buttons
+{
+    margin: 0 auto;
+    width: 142px;
+}
