@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book lang="english">
+    <author>John Doe</author>
+    <title>Typescript</title>
+  </book>
+  <paper type="scientific">
+    <author>Peter Parker</author>
+   </paper>
+  <book lang="german">
+    <author>Jane Doe</author>
+    <title>Javascript</title>
+  </book>
+</bookstore>
