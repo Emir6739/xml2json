@@ -11,7 +11,7 @@ function xml2json(xml, pad, type) {
     for (var t = 0; t < pad; ++t)
         indent += "\t";
     //a string where we will store json
-    var txt = "";
+    var txt = "sinisa";
     //same as indent but one tab bigger and used to indent key/value pairs
     var padding = indent + "\t";
     //output formatting along with formatting corner cases
